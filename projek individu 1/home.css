@@ -1,0 +1,23 @@
+.contact .row {
+    flex-wrap: wrap;
+  }
+
+  .contact .row .map {
+    height: 30rem;
+  }
+
+  .contact .row form {
+    padding-top: 0;
+  }
+
+  .modal-content {
+    flex-wrap: wrap;
+  }
+}
+
+
+@media (max-width: 450px) {
+  html {
+    font-size: 55%;
+  }
+}
