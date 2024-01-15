@@ -1,0 +1,51 @@
+html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lutfi fuat Azhar</title>
+</head>
+<body>
+  <header aligin ="center">
+    <img src="https://nurulfikri.ac.id/wp-content/uploads/2019/12/logo-sttnf-brand.png"
+widht="300">
+    <hr>
+ </header>
+ <nav aligin="center">
+   <a href="#">Beranda</a>
+   <a href="#">profil</a>
+   <a href="#">program Studi</a>
+   <a href="#">Akademik</a>
+   <a href="#">Penelitian</a>
+ </nav>
+ <article style="display: Flex;">
+    <section style="margin": 15px;>
+      <img
+  src="https://nurulfikri.ac.id/wp-content/uploads/2023/10/photo_2023-10-11_09-54-03-1200x600.webp"
+widht="600">
+    <p>Google Developer Student Clubs (GDSC) merupakan komunitas resmi dari Google Developer sebagai jembatan antara teori dan praktik bagi mahasiswa yang memiliki ketertarikan untuk mengembangkan keterampilannya di bidang teknologi khususnya Google Technologies. Dengan core values GDSC yaitu Connect, Learn, and Grow, komunitas ini mengajak mahasiswa untuk berkembang bersama melalui pembelajaran dan perluasan koneksi profesional.</p>
+     <p>GDSC Indonesia Summit 2023 yang dihadiri oleh 87 Lead dari seluruh Indonesia memberikan pengalaman yang seru dan wawasan yang sangat bermanfaat untuk menciptakan sebuah lingkungan komunitas belajar yang baik di Kampus. Dengan Core Values GDSC yaitu Connect, Learn, dan Grow, GDSC mengajak para mahasiswa untuk berkembang, belajar bersama, dan memperluas koneksi untuk karir kedepannya.</p>
+      <p>GDSC Indonesia Summit 2023 secara khusus dihadiri untuk GDSC Lead yang ada di kampusnya masing-masing untuk mempersiapkan GDSC yang ada di kampusnya dalam menjalankan program-program yang akan dilaksanakan selama satu tahun kedepan. Perwakilan dari STT Nurul Fikri ada Naufal Atha Yudha, S1 Sistem Informasi. Event ini diadakan tanggal 29 September – 1 Oktober 2023 bertempat di Google Indonesia Office.</p>
+    
+       <img>
+ src="https://nurulfikri.ac.id/wp-content/uploads/2023/10/photo_2023-10-11_09-54-01-225x300.webp">
+       
+     </section>
+     <aside>
+       <h3>Recent Posts</h3>
+       <a href="#">STT Nurul Fikri Ikuti Event GDSC Indonesia summit 2023</a>
+       <hr>
+       <a herf="#">BAZNAS kota Depok dan STT-NF kerjasama Digitalisasi pengelolaan Zakat</a>
+   </article>
+ </article>
+ </footer aligin ="center"style="margoin-right:100px;">
+    <p aligin="center"style="margoin-right:600px;">copyright dancopy Sekolah Tinggi Terpadu Nurul Fikri</p>
+ </footer>
+
+
+
+
+
+
+
+</body>
+</html>
